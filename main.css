@@ -1,0 +1,21 @@
+body {
+	background:#001f3f;
+	height: 100vh;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	color: #7FDBFF;
+}
+
+p {
+	color: white;
+}
+
+.navbar{
+	margin-bottom:20px;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+}
